@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "testing-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "class-validator": "^0.12.2",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "http-server": "^0.12.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.21",
+    "morgan": "^1.10.0",
+    "request": "^2.88.2"
+  }
+}
